@@ -56,5 +56,6 @@ Portanto, atesta-se que a lógica de controle foi fielmente mapeada para o domí
 
 
 ## Autoria
-* **Aluno**: Andrey Alcântara da Silva Oliveira
+* **Aluno**: Andrey Alcântara da Silva Oliveira 
+* **Matricula**: 202211130027
 * **Disciplina**: Automação Inteligente — IFBA
