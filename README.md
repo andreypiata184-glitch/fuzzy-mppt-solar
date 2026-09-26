@@ -37,7 +37,7 @@ Através do processo de inferência de **Mamdani**, a agregação das contribui�
 
 ## Cálculos Manuais 
 
-**O desenvolvimento das 5 fases do processo de Inferência Fuzzy, encontra-se no documento:** [Cálculo Manual Analítico](calculo_manual.pdf)
+**O desenvolvimento das 5 fases do processo de Inferência Fuzzy, encontra-se no documento:** [Cálculo Manual Analítico](Arquivos/calculo_manual.pdf).
 
 
 ## Comparação de Resultados ($\Delta P = -1{,}0\text{ p.u.}$, $\Delta V = 0{,}25\text{ p.u.}$)
